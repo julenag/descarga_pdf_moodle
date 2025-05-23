@@ -13,7 +13,7 @@ import time
 COURSE_URL = "https://atenea.upc.edu/course/view.php?id=11111"  # URL del curso específico
 
 # Ruta donde se guardarán los PDFs descargados
-DOWNLOAD_FOLDER = "descargas"
+DOWNLOAD_FOLDER = "ATENEA"
 
 # Configuración del navegador (chrome_options)
 chrome_options = Options()
