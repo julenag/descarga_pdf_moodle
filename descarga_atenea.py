@@ -10,7 +10,7 @@ from bs4 import BeautifulSoup
 import time
 
 # URL del curso (debes estar logueado para acceder)
-COURSE_URL = "https://atenea.upc.edu/course/view.php?id=90338"  # URL del curso específico
+COURSE_URL = "https://atenea.upc.edu/course/view.php?id=11111"  # URL del curso específico
 
 # Ruta donde se guardarán los PDFs descargados
 DOWNLOAD_FOLDER = "descargas"
