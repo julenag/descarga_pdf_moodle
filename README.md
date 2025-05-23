@@ -1,6 +1,6 @@
-# Descargador automático de PDFs para Moodle Atenea
+# Descargador automático de PDFs para Moodle (Atenea)
 
-Este script automatiza la descarga de archivos PDF desde un curso de Moodle Atenea. Abre la página del curso, espera a que el usuario 
+Este script automatiza la descarga de archivos PDF desde un curso de Atenea (el campus virtual de la UPC). Abre la página del curso, espera a que el usuario 
 inicie sesión manualmente, detecta cuando el usuario ya está dentro del curso y descarga los PDFs organizándolos en carpetas por sección.
 
 ---
